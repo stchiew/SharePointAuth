@@ -1,0 +1,15 @@
+{
+  "key": "generic",
+  "CustomSettings": {
+    "ClientId": "12345678-abcd-abce-abcd-123456789012",
+    "TenantId": "12345678-abcd-abce-abcd-123456789012",
+    "DemoSiteUrl": "https://yourtenant.sharepoint.com",
+    "CredentialManager": "credmgr",
+    "RedirectUri": "http://localhost"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information"
+    }
+  }
+}

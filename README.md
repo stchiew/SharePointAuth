@@ -1,0 +1,1 @@
+# SharePoint Authentication Sample
